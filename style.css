@@ -1,0 +1,11 @@
+.jumbotron {
+text-align: center;
+background-color: red;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: bold;
+font-size : 50px;
+}
+
+body {
+    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiGuYyG8p3hAhVIZawKHUUHB0QQjRx6BAgBEAU&url=https%3A%2F%2Fwww.lyst.com%2Fclothing%2Fversace-jock-strap%2F&psig=AOvVaw1UsfO0Bd_QmwmEcF3yrr0l&ust=1553623854419843")
+}
